@@ -14,16 +14,17 @@ This project is structured to support the development of an LLM-powered applicat
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
-
+   ```
 
 ## Usage
 Run the application:
    ```bash
    python app/main.py
+   ```
 
 ## Testing
 Run tests using:
    ```bash
    python -m unittest
-
+   ```
 
