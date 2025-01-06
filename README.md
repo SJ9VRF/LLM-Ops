@@ -15,11 +15,13 @@ Install dependencies:
 pip install -r requirements.txt
 Usage
 
+## Usage
 Run the application:
 
 python app/main.py
 Testing
 
+## Testing
 Run tests using:
 
 python -m unittest
