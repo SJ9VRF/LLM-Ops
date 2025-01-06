@@ -11,19 +11,19 @@ This project is structured to support the development of an LLM-powered applicat
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-Install dependencies:
-pip install -r requirements.txt
-Usage
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
 
 ## Usage
 Run the application:
-
-python app/main.py
-Testing
+   ```bash
+   python app/main.py
 
 ## Testing
 Run tests using:
-
-python -m unittest
+   ```bash
+   python -m unittest
 
 
