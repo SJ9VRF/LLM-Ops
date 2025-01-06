@@ -1,4 +1,5 @@
 # LLM-Ops
 
-<img width="400" alt="Screenshot 2025-01-06 at 8 00 29 AM" src="https://github.com/user-attachments/assets/332cdff0-5a83-4c68-a345-5a78f6ffaa99" />
+![Screenshot_2025-01-06_at_8 00 29_AM-removebg-preview](https://github.com/user-attachments/assets/dc72d510-0304-4bd8-af5f-d77233c6a26c)
+
 
